@@ -1,2 +1,7 @@
 # py_tst-tasks
-Tasks from theory of signal transmission
+Solving problems on the theory of signal transmission.
+
+## Исследование дискретного источника информации
+- Дано: сообщение
+- Задачи: определение типа источника, расчет энтропии, избыточности и анализ трех вариантов кодирования сообщения.
+- Файл: `Исследование ДИИ.ipynb`
